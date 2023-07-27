@@ -27,4 +27,6 @@ public class QuizController {
 
            return quizService.getQuizQuestions(id);
     }
+    // add method
+    public
 }
